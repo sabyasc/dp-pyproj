@@ -1,5 +1,5 @@
 # Challenge is to reverse any given input in any format
-# e.g. str, int, float... etc and 
+# e.g. str, int, float, double ...etc and 
 # measure the time complexity, print all outputs.
 
 import time
