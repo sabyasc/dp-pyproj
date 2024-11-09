@@ -14,4 +14,4 @@ This Repo uses CodeQL for code scanner process via GitHub Actions
 
 Cheers !! :v: :clinking_glasses:
 
-@2024 sabyasc, github.com/sabyasc 
+@2024 sabyasc, github.com/sabyasc

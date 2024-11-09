@@ -46,5 +46,6 @@ def time_complexity():
         print("Time Complexity is O(1) : ", execution_time, "seconds")
     else:
         print("Time Complexity is O(n) : ", execution_time, "seconds")
+    return "=== END ==="
 
 print(time_complexity())
