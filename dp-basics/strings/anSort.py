@@ -16,7 +16,7 @@ def anagramSort(user_data_1, user_data_2):
 
     sort_check = sorted(str1) == sorted(str2)
     
-    if sort_check ==  True:
+    if sort_check == True:
         print("String is Anagram")
     else:
         print("String is not Anagram")
